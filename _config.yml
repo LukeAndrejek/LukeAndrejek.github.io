@@ -2,4 +2,5 @@ plugins:
   - jekyll-feed
 title: Luke Andrejek Blog
 description: Welcome to my blog
+url: https://lukeandrejek.github.io/
 author: Luke Andrejek
